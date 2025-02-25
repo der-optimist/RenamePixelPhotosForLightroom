@@ -12,4 +12,4 @@ But Lightroom only recognizes them as "one" phone if everything before the file 
 
 You can download jpg + dng in a bulk via
 
-"https://photos.google.com/search/_tra_"
+[https://photos.google.com/search/_tra_](https://photos.google.com/search/_tra_)
